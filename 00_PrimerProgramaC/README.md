@@ -1,0 +1,1 @@
+Este es mi primer programa en C, nunca programe en este lenguaje pero por algun lado se empieza
