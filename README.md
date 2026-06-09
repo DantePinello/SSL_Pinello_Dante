@@ -1,1 +1,1 @@
-Este es mi primer repositorio para la cursada de Sintaxis y semántica de lenguajes!! :)
+Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
